@@ -1,9 +1,9 @@
 # Проекты выполенные в рамках курса Data Science
 
-1. [Игра угадай число](https://github.com/Ramzes30765/Guess_number_game)<br>
+0. [Игра угадай число](https://github.com/Ramzes30765/Guess_number_game)<br>
 Проект по **созданию программы**, которая угадывает загаданное компьютером число за **минимальное** количество попыток.
 
-2. [Анализ резюме из HeadHunter](https://github.com/Ramzes30765/Project_1)<br>
+1. [Анализ резюме из HeadHunter](https://github.com/Ramzes30765/Project_1)<br>
 Проект по очистке, **преобразованию и анализу** базы данных резюме.
 
 ## Краткая информация обо мне
