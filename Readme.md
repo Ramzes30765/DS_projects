@@ -9,3 +9,9 @@
 2. Titanic classification.<br>
    2.1. [Random forest](https://www.kaggle.com/code/ramzesii/random-forest)<br>
    2.2. [Xgboost](https://www.kaggle.com/code/ramzesii/xgboost-classifier-v2/notebook)<br>
+
+3. [Simpsons](https://www.kaggle.com/code/ramzesii/simpsons-eff-net-b2)<br>
+Учебный проект в рамках освоения CNN на тему transfer learning.<br>
+
+4. [Unet & Segnet](https://www.kaggle.com/code/ramzesii/unet-segmentation/notebook)<br>
+Учебно-исследовательский проект, в котором рассматриваются различные архитектуры сверточных нейросетей. Так же имплементированны различные loss функции и проведено их сравнение.
