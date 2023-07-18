@@ -6,10 +6,6 @@
 1. [Анализ резюме из HeadHunter](https://github.com/Ramzes30765/Project_1)<br>
 Проект по очистке, **преобразованию и анализу** базы данных резюме.
 
-## Краткая информация обо мне
-
-* Денис, 30 лет
-* г. Москва
-* [Ссылка на резюме](***coming soon***)
-
-***В дальнейшем информация будет дополняться***
+2. Titanic classification.<br>
+   2.1. [Random forest](https://www.kaggle.com/code/ramzesii/random-forest)<br>
+   2.2. [Xgboost](https://www.kaggle.com/code/ramzesii/xgboost-classifier-v2/notebook)<br>
