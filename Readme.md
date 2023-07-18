@@ -1,5 +1,8 @@
-# Проекты выполенные в рамках курса Data Science
+[Ссылка на резюме](https://hh.ru/applicant/resumes/view?resume=503c81f3ff0bc97ae50039ed1f716847793636)<br>
+[Leetcode](https://leetcode.com/RamzesIII/)<br>
+[kaggle](https://www.kaggle.com/ramzesii)
 
+# Проекты
 0. [Игра угадай число](https://github.com/Ramzes30765/Guess_number_game)<br>
 Проект по **созданию программы**, которая угадывает загаданное компьютером число за **минимальное** количество попыток.
 
