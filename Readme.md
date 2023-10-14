@@ -18,3 +18,6 @@
 
 4. [Unet & Segnet](https://www.kaggle.com/code/ramzesii/unet-segmentation/notebook)<br>
 Учебно-исследовательский проект, в котором рассматриваются различные архитектуры сверточных нейросетей. Так же имплементированны различные loss функции и проведено их сравнение.
+
+5. [Find k-similar images(TF-IDF, Color histogram, Clip model)](https://github.com/Ramzes30765/Find-k-similar-images)
+Учебно-исследовательский проект, в котором рассматриваются различные способы поиска похожих изображений.
