@@ -21,3 +21,9 @@
 
 5. [Find k-similar images(TF-IDF, Color histogram, Clip model)](https://github.com/Ramzes30765/Find-k-similar-images)
 Учебно-исследовательский проект, в котором рассматриваются различные способы поиска похожих изображений.
+
+6. [Captcha recognition](https://www.kaggle.com/code/ramzesii/sf-captcha-recognition)
+Учебно-исследовательский проект, где детально разобрана архитектура ResNet и влияние различных Norm layers на качество модели
+
+7. [Pets segmentation](https://www.kaggle.com/code/ramzesii/pet-segmentation-with-unet-deeplabv3)
+Учебно-исследовательский проект, где детально разобраны архитектуры Unet / DeepLab v3 с попытками модификации этих сетей.
